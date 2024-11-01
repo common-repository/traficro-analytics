@@ -1,0 +1,9 @@
+.traficro_code_block {
+    background: #DDD;
+    border: 1px solid #000;
+    padding: 5px;
+}
+
+.traficro_attention {
+    color: #C00;
+}
